@@ -19,9 +19,5 @@ This bootcamp has ten sprint as follow:
 
   
 ``` R
-
-#test the highlight syntax
-print("Hello World")
-
-
+friend <- c("Name", "Nam", "Jane"
 ```
