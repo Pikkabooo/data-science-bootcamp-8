@@ -18,7 +18,7 @@ This bootcamp has ten sprint as follow:
 - Dashboard
 
   
-``` R:
+``` R
 print("Hello World")
 
 ```
