@@ -19,5 +19,5 @@ This bootcamp has ten sprint as follow:
 
   
 ``` R
-friend <- c("Name", "Nam", "Jane"
+friend <- c("Name", "Nam", "Jane")
 ```
